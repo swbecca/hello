@@ -1,0 +1,9 @@
+{
+    "/hlms": {
+      "target": "http://36.152.29.162:50206",
+      "secure": false,
+      "changeOrigin" : true,
+      "logLevel": "debug"
+    }
+  }
+  
